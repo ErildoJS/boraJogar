@@ -1,1 +1,1 @@
-<img src="./.github/borajogar.svg" alt="borajogar" />
+<img src="./.github/borajogar.gif" alt="borajogar" />
